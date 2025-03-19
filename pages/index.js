@@ -1,12 +1,12 @@
 /*********************************************************************************
- *  BTI425 – Assignment 4
+ *  BTI425 – Assignment 5
  * 
  *  I declare that this assignment is my own work in accordance with Seneca's 
  *  Academic Integrity Policy: 
  *  
  *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
  *  
- *  Name: Zeeshaun Ahmad  Student ID: 158043224  Date: March 7, 2025
+ *  Name: Zeeshaun Ahmad  Student ID: 158043224  Date: March 21, 2025
  ********************************************************************************/
 
 import Image from 'react-bootstrap/Image';
